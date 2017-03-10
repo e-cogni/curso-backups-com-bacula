@@ -1,6 +1,12 @@
 # Curso Backups com Bacula
 
+[link]: https://www.e-cogni.com.br/curso/backups-com-bacula/ "Curso Backups com Bacula"
+
 ![E-COGNI Treinamentos de TI](https://static-files.ecogni.net/images/ecogni-logo-horizontal-fundo-transparente.gif)
+
+Acesse o conteúdo completo do curso de backup com bacula em [https://www.e-cogni.com.br/curso/backups-com-bacula/][link]
+
+
 
 A Continuidade de Serviços de TI busca garantir que em caso de incidentes maiores ou mesmo em situações de desastre, haja uma forme de restabelecer os serviços essenciais aos negócios.
 
@@ -8,7 +14,7 @@ Um dos pontos mais importantes no planejamento da Continuidade é definir uma po
 
 Portanto é grande a responsabilidade que paira sobre os processos e ferramentas utilizados para salvaguardar os dados da organização.
 
-No **Curso de Backups com Bacula** estaremos abordando o uso de uma solução livre, porém com características empresariais, que pode ser usada como uma alternativa eficaz na execução de cópias de segurança: o Bacula.
+No **[Curso de Backups com Bacula][link]** estaremos abordando o uso de uma solução livre, porém com características empresariais, que pode ser usada como uma alternativa eficaz na execução de cópias de segurança: o Bacula.
 
 O Bacula na verdade é um conjunto de softwares Open Source que permitem o gerenciamento de cópias de segurança em rede. É relativamente fácil de usar e muito eficiente, oferecendo muitos recursos avançados de gerenciamento do armazenamento, o que torna mais fácil o processo de localização e recuperação de arquivos perdidos ou danificados.
 
